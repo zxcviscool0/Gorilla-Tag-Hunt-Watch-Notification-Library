@@ -4,12 +4,11 @@ A notification library that allows utilization of the hunt watch to show notific
 It may take up 10 seconds for the watch to load
 
 # How to use the libary
-First of all you need to a add a project reference to the dll in order for it to work
-
-Once your finished with that you will need this code to ensure it loads properly:
+1. First of all you need to a add a project reference to the dll in order for it to work
+2. Add the hunt watch notification libary into ur plugins
+3. Once your finished with that you will need to add a BepInDependency so it works you can do this using
 [BepInDependency("zxcv.notif.hunt")]
-
-To send a notification use this code:
+4. Send a notification using
 HuntNotif.SendNotification("coolthing");
 
 # Exmaple Code
