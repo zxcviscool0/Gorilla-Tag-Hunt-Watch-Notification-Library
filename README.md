@@ -13,6 +13,7 @@ To send a notification use this code:
 HuntNotif.SendNotification("coolthing");
 
 # Exmaple Code
+```csharp
 using BepInEx;
 using ExitGames.Client.Photon;
 using GorillaLocomotion;
@@ -40,3 +41,4 @@ namespace ExampleCode
         }
     } 
 }
+```
