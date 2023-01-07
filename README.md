@@ -38,5 +38,5 @@ namespace ExampleCode
             new Harmony("dev.sped.zxcv").PatchAll(Assembly.GetExecutingAssembly());
             HuntNotif.SendNotification("coolthing");
         }
-    }
+    } 
 }
