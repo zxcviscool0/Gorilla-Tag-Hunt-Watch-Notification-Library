@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\Debug\netstandard2.0\HuntNotifLibary.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\Debug\netstandard2.0\HuntNotifLibary.dll
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\Debug\netstandard2.0\HuntNotifLibary.pdb
+C:\Users\gabyu\Extra Storage\GUIs\Hunt Notif\ProjectInsanityGUI\obj\Debug\netstandard2.0\Hunt Notif.csproj.AssemblyReference.cache
+C:\Users\gabyu\Extra Storage\GUIs\Hunt Notif\ProjectInsanityGUI\obj\Debug\netstandard2.0\Hunt Notif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabyu\Extra Storage\GUIs\Hunt Notif\ProjectInsanityGUI\obj\Debug\netstandard2.0\Hunt Notif.AssemblyInfoInputs.cache
+C:\Users\gabyu\Extra Storage\GUIs\Hunt Notif\ProjectInsanityGUI\obj\Debug\netstandard2.0\Hunt Notif.AssemblyInfo.cs
+C:\Users\gabyu\Extra Storage\GUIs\Hunt Notif\ProjectInsanityGUI\obj\Debug\netstandard2.0\Hunt Notif.csproj.CoreCompileInputs.cache
+C:\Users\gabyu\Extra Storage\GUIs\Hunt Notif\ProjectInsanityGUI\obj\Debug\netstandard2.0\HuntNotifLibary.dll
+C:\Users\gabyu\Extra Storage\GUIs\Hunt Notif\ProjectInsanityGUI\obj\Debug\netstandard2.0\HuntNotifLibary.pdb
