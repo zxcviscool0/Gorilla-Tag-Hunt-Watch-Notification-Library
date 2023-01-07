@@ -36,7 +36,7 @@ namespace ExampleCode
     {
         private void Awake()
         {
-            new Harmony("dev.sped.zxcv").PatchAll(Assembly.GetExecutingAssembly());
+            new Harmony("Example.Code.Here").PatchAll(Assembly.GetExecutingAssembly());
             HuntNotif.SendNotification("coolthing");
         }
     } 
