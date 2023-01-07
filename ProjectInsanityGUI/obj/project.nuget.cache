@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tk+fwg6SO+yq3ZFoYkXCvUq39u0BBfRVaMqfMJfvMzgvj78VuYN7H+Di6PE1ywDGVz1m6118reSS4KhpSz92mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabyu\\Extra Storage\\GUIs\\Hunt Notif\\ProjectInsanityGUI\\Hunt Notif.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabyu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gabyu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
